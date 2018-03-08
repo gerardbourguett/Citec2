@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "275931613563",
+    "firebase_url": "https://cimubb-4f94d.firebaseio.com",
+    "project_id": "cimubb-4f94d",
+    "storage_bucket": "cimubb-4f94d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275931613563:android:ea4ff2b5f8e7d814",
+        "android_client_info": {
+          "package_name": "com.example.laboratorio.citec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275931613563-8rclgbo1iet81ru8uu1op61j24nt61vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGaEskENyft9_p12VRIVH5ffm2yMf-C9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
